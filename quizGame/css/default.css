@@ -1,0 +1,139 @@
+/* 01_Welcome */
+
+position: relative;
+width: 1920px;
+height: 1080px;
+
+background: #FFFFFF;
+
+
+/* Background */
+
+position: absolute;
+width: 1920px;
+height: 1080px;
+left: 0px;
+top: 0px;
+
+background: url(01_Image_.jpg);
+
+
+/* Website. We can do it. 웹 페이지에 오신걸 환영. 반갑읍니다. */
+
+position: absolute;
+width: 1550px;
+height: 455px;
+left: 256px;
+top: 211px;
+
+font-family: 'GungsuhChe';
+font-style: normal;
+font-weight: 400;
+font-size: 128px;
+line-height: 147px;
+
+color: #FFFFFF;
+
+
+
+/* Main Page */
+
+position: absolute;
+width: 576px;
+height: 147px;
+left: 672px;
+top: 15px;
+
+font-family: 'GungsuhChe';
+font-style: normal;
+font-weight: 400;
+font-size: 128px;
+line-height: 147px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Button */
+
+position: absolute;
+width: 945px;
+height: 143px;
+left: 487px;
+top: 733px;
+
+
+
+/* Button_BG */
+
+position: absolute;
+left: 0%;
+right: 0.11%;
+top: 0%;
+bottom: 1.4%;
+
+background: #7E57C2;
+
+
+/* Log in */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: 'GungsuhChe';
+font-style: normal;
+font-weight: 400;
+font-size: 96px;
+line-height: 110px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Button */
+
+position: absolute;
+width: 945px;
+height: 143px;
+left: 487px;
+top: 905px;
+
+
+
+/* Button_BG */
+
+position: absolute;
+left: 0%;
+right: 0.11%;
+top: 0%;
+bottom: 1.4%;
+
+background: #7E57C2;
+
+
+/* Sign in */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: 'GungsuhChe';
+font-style: normal;
+font-weight: 400;
+font-size: 96px;
+line-height: 110px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
